@@ -1,2 +1,2 @@
-# Add HTML file
-Add the HTML file to the Color Game.
+# ColorGame
+ -Guessing  the color based on the RGB parameters provided by the title.
